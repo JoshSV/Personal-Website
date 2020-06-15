@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Senior Consultant, Data Science"
+  company = "IBM Services"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Toronto, Ontario"
+  date_start = "2020-02-01"
+  date_end = "Present"
   description = """
-  Responsibilities include:
+  Responsibilities include: 
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Software Development
+  * Data Engineering
+  * Machine Learning Model Development
+  * BUsiness Requirements Gathering 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Associate Consultant, Data Science "
+  company = "IBM Services "
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Toronto"
+  date_start = "2018-02-01"
+  date_end = "2020-01-31"
+  description = """Completed a two year Consulting Apprenticeship with IBM Services as a Junior Data Scientist within the Advanced Analytics practice. I had major engagements in the Public and Oil & Gas Sectors.
+  
+  * Software Development
+  * Data Engineering
+  * Machine Learning Model Development
+  * BUsiness Requirements Gathering 
+  
+  """
 
 +++
