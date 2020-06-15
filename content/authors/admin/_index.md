@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mathematical Finance 
-    institution: University of Waterloo 
-    year: Expected 2024 
+  - course: 
+    institution: 
+    year: 
   - course: Master of Quantitative Finance 
     institution: University of Waterloo 
     year: 2017

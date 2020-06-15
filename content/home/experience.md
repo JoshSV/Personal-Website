@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Toronto, Ontario"
   date_start = "2020-02-01"
   date_end = ""
-  description = """
+  description = """ Led and participated in the delivery of various projects. Primarily focused on Data Science Development with Watson IoT in Transportation and Logistics space. 
   Responsibilities include: 
   
   * Software Development
@@ -37,11 +37,13 @@ date_format = "Jan 2006"
   title = "Associate Consultant, Data Science "
   company = "IBM Services "
   company_url = ""
-  location = "Toronto"
+  location = "Toronto, Ontario"
   date_start = "2018-02-01"
   date_end = "2020-01-31"
   description = """Completed a two year Consulting Apprenticeship with IBM Services as a Junior Data Scientist within the Advanced Analytics practice. I had major engagements in the Public and Oil & Gas Sectors.
   
+  Responsibilities include: 
+
   * Software Development
   * Data Engineering
   * Machine Learning Model Development
