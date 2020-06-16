@@ -25,12 +25,13 @@ date_format = "Jan 2006"
   date_start = "2020-02-01"
   date_end = ""
   description = """ Led and participated in the delivery of various projects. Primarily focused on Data Science Development with Watson IoT in Transportation and Logistics space. 
+
   Responsibilities include: 
   
   * Software Development
   * Data Engineering
   * Machine Learning Model Development
-  * BUsiness Requirements Gathering 
+  * Business Requirements Gathering 
   """
 
 [[experience]]
@@ -47,7 +48,7 @@ date_format = "Jan 2006"
   * Software Development
   * Data Engineering
   * Machine Learning Model Development
-  * BUsiness Requirements Gathering 
+  * Business Requirements Gathering 
   
   """
 
