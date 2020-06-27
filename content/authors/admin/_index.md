@@ -14,8 +14,12 @@ role: Management Consutant
 
 # Organizations/Affiliations
 organizations:
+- name: IBM Services
+  url: "https://www.ibm.com/services?p1=Search&p4=43700051361758611&p5=e&cm_mmc=Search_Google-_-1S_1S-_-WW_NA-_-ibm%20services_e&cm_mmca7=71700000062661194&cm_mmca8=kwd-303905108119&cm_mmca9=Cj0KCQjwudb3BRC9ARIsAEa-vUsPPIMaSvbXT7fsNSB_M5wopOr8e222UoH2vzdqcXghgdsyGEWnS7AaAq30EALw_wcB&cm_mmca10=417428795017&cm_mmca11=e&gclid=Cj0KCQjwudb3BRC9ARIsAEa-vUsPPIMaSvbXT7fsNSB_M5wopOr8e222UoH2vzdqcXghgdsyGEWnS7AaAq30EALw_wcB&gclsrc=aw.ds"
 - name: University of Waterloo
-  url: ""
+  url: "https://uwaterloo.ca/"
+
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include change point analysis, portfolio management, fuctional time series, and distributed systems.
