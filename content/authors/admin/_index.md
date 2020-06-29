@@ -57,7 +57,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/JoshSV
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Josh Valchar is currently employed as an IT Consultant with IBM Services. He has a strong background in Financial Engineering and Software Development, and is eager to learn new technologies that will help his clients business succeed.
+Confessions of a Consultant is the personal website and blog of Josh Valchar - a Toronto based IT Consultant currently employed with IBM Services. Here one can find interesting articles and posts related to recent developments in the Consulting world, as well as resources for technical professionals interested in learning more about the soft-skills required to be a Consultant. 
